@@ -1,0 +1,38 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+#Archivos de configuración de IDEs
+.vscode/
+.idea/
+.project
+
+#archivos de configuracion de IA's
+.openai/
+.azure/
+.azure-pipelines/
+.claude/
+.anthropic/
+
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Bases de datos locales
+*.db
+
+# Archivos grandes
+transformers.zip
